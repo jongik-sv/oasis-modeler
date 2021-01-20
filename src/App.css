@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+#action-button-fit {
+  position: absolute;
+  bottom: 170px;
+  right: 20px;
+  overflow: hidden;
+  width: 40px;
+  height: 40px;
+  line-height: 38px;
+  text-align: center;
+  color: #195feb;
+  background-color: #e3ebf9;
+  border: solid 2px #c3d4f4;
+  border-radius: 2px;
+  z-index: 1;
+  transition: 200ms;
+  cursor: pointer; }
+
+#action-button-fit:before {
+  font-family: 'Material Icons';
+  font-size: 25px;
+  content: "⊙"; }  
+ 
+.action-button-fit:hover {
+  background-color: #caddff; }
+
+.action-button-fit:active {
+  background-color: #acc1e7; }
+  
