@@ -519,3 +519,14 @@ vh (view height) */
 - flex-shrink : 줄어드는 비율
 - flex-basis : 차지할 비율 지졍
 - align-self : cross axis 방향으로 한 아이템만 정렬
+
+<추천 확장>
+bracket pair colorizer
+indent-rainbow
+CSS PEEK
+HTML CSS SUPPORT
+LIVE SERVER
+
+<코딩싸이트>
+jsbin
+jsFiddle
